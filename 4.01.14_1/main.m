@@ -21,6 +21,7 @@ int main(int argc, const char * argv[])
         
         NSLog(@"\nNow - %@", date);
         NSLog(@"\nNew - %@", newDate);
+        NSLog(@"\nNew - %@", newDate);
         
     }
     return 0;
